@@ -1,0 +1,104 @@
+.frame-1 .google-logo-1 {
+  background: url('../assets/images/googleLogo1.png') 50% / cover no-repeat;
+  margin-right: 1px;
+  width: 238px;
+  height: 128px;
+}
+.frame-1 .image-1 {
+  background: url('../assets/images/image1.png') 50% / cover no-repeat;
+  margin: 1px 0 3px 0;
+  width: 34px;
+  height: 26px;
+}
+.frame-1 .image-2 {
+  background: url('../assets/images/image2.png') 50% / cover no-repeat;
+  width: 112px;
+  height: 30px;
+}
+.frame-1 .container {
+  border-radius: 20px;
+  border: 1px solid #E6E3E3;
+  background: #FEFEFE;
+  position: relative;
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 7px 7px 6px;
+  width: 509px;
+  box-sizing: border-box;
+}
+.frame-1 .tm-trn-google {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #363939;
+}
+.frame-1 .container-2 {
+  background: #F8F9FB;
+  position: relative;
+  margin: 0 12px 1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 14.3px 7px 15px;
+  box-sizing: border-box;
+}
+.frame-1 .xem-trangu-tin-tmc {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #363939;
+}
+.frame-1 .container-3 {
+  background: #F8F9FB;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 8.6px 8px 8px;
+  box-sizing: border-box;
+}
+.frame-1 .container-1 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .google-ccc-th-ting-english-franais {
+  margin-right: 1.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.google-ccc-th-ting-english-franais-sub4 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #645C60;
+}
+.google-ccc-th-ting-english-franais {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #3327BE;
+}
+.frame-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 58px 0 129px 0;
+  width: 872px;
+  box-sizing: border-box;
+}
+.body{
+  display: center;
+}
