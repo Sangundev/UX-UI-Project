@@ -12,11 +12,12 @@
 ## Công Nghệ Sử Dụng
 
 ### Backend
-
+-C#, ASP.NET MVC, API, SQL Server
 ### Frontend
 - HTML/CSS
 - JavaScript
 - ajax
+- Bootstrap
 
 ### Database
 - SQL server
