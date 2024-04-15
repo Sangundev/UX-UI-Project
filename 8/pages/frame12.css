@@ -1,0 +1,429 @@
+.frame-12 .ellipse-1 {
+  border-radius: 30px;
+  background: #FF3860;
+  position: absolute;
+  top: 14px;
+  right: 11px;
+  width: 60px;
+  height: 60px;
+}
+.frame-12 .new {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-12 .container-2 {
+  background: url('../assets/images/mucXaoThamCap1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 31px 21px 0 21px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-12 .product-top-xao {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-12 .mc-xo {
+  position: relative;
+  margin: 0 14px 28px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-12 .line-12 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-12 .container-1 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-12 .container-2 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-12 .container-3 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-12 .container {
+  position: absolute;
+  left: 109px;
+  bottom: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-12 .group-10 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-12 .ellipse-11 {
+  border-radius: 30px;
+  background: #FF3860;
+  position: absolute;
+  top: 14px;
+  right: 11px;
+  width: 60px;
+  height: 60px;
+}
+.frame-12 .new-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-12 .container-6 {
+  background: url('../assets/images/mucXaoThamCap1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 31px 21px 0 21px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-12 .product-top-xao-1 {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-12 .mc-xo-1 {
+  position: relative;
+  margin: 0 14px 28px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-12 .line-121 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-12 .container-4 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-12 .container-5 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-12 .container-1 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-12 .container-3 {
+  position: absolute;
+  left: 109px;
+  bottom: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-12 .group-11 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-12 .ellipse-12 {
+  border-radius: 30px;
+  background: #FF3860;
+  position: absolute;
+  top: 14px;
+  right: 11px;
+  width: 60px;
+  height: 60px;
+}
+.frame-12 .new-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-12 .container {
+  background: url('../assets/images/mucXaoThamCap1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 31px 21px 0 21px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-12 .product-top-xao-2 {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-12 .mc-xo-2 {
+  position: relative;
+  margin: 0 14px 28px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-12 .line-122 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-12 .container-7 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-12 .container-8 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-12 .container-5 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-12 .container-6 {
+  position: absolute;
+  left: 109px;
+  bottom: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-12 .group-12 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-12 .ellipse-13 {
+  border-radius: 30px;
+  background: #FF3860;
+  position: absolute;
+  top: 14px;
+  right: 11px;
+  width: 60px;
+  height: 60px;
+}
+.frame-12 .new-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-12 .container-7 {
+  background: url('../assets/images/mucXaoThamCap1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 31px 21px 0 21px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-12 .product-top-xao-3 {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-12 .mc-xo-3 {
+  position: relative;
+  margin: 0 14px 28px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-12 .line-123 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-12 .container-10 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-12 .container-11 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-12 .container-4 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-12 .container-9 {
+  position: absolute;
+  left: 109px;
+  bottom: 70px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-12 .group-13 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-12 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  column-gap: 64px;
+  padding: 101px 0 100px 0;
+  width: 1917px;
+  box-sizing: border-box;
+}
