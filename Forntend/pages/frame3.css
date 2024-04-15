@@ -1,0 +1,456 @@
+.frame-3 .tuanle-2 {
+  background: url('../assets/images/tuanle2.jpeg') 50% / cover no-repeat;
+  margin: 7px 22px 11px 0;
+  width: 391px;
+  height: 98px;
+}
+.frame-3 .screenshot-202404140216402 {
+  background: url('../assets/images/screenshot202404140216402.jpeg') 50% / cover no-repeat;
+  margin: 10px 17px 11px 0;
+  width: 396px;
+  height: 95px;
+}
+.frame-3 .screenshot-202404140218322 {
+  background: url('../assets/images/screenshot202404140218322.jpeg') 50% / cover no-repeat;
+  width: 398px;
+  height: 116px;
+}
+.frame-3 .container-3 {
+  margin: 0 6px 31px 0;
+  display: flex;
+  flex-direction: row;
+  width: 1224px;
+  box-sizing: border-box;
+}
+.frame-3 .screenshot-202404140228531 {
+  background: url('../assets/images/screenshot202404140228531.jpeg') 50% / cover no-repeat;
+  margin: 0 122px 26px 0;
+  width: 1058px;
+  height: 40px;
+}
+.frame-3 .sn-phm-mi {
+  margin-right: 8.5px;
+  width: 123.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #8B8282;
+}
+.frame-3 .sn-phm-gim-gi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #F53D2D;
+}
+.frame-3 .sn-phm-hot {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #8B8282;
+}
+.frame-3 .container-9 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 395.9px;
+  box-sizing: border-box;
+}
+.frame-3 .rectangle-10 {
+  background: #F53D2D;
+  margin-right: 2.9px;
+  align-self: center;
+  width: 159px;
+  height: 3px;
+}
+.frame-3 .container-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 46px 44px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 19px 0 9px 15px;
+  width: 468px;
+  box-sizing: border-box;
+}
+.frame-3 .ti-xung-1 {
+  background: url('../assets/images/tiXung1.jpeg') 50% / cover no-repeat;
+  margin-bottom: 21px;
+  width: 276px;
+  height: 211px;
+}
+.frame-3 .home-rn {
+  margin: 0 3px 5px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #707070;
+}
+.frame-3 .gchua-ngt {
+  margin-bottom: 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: #000000;
+}
+.frame-3 .container {
+  margin: 0 40.6px 12.2px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #707070;
+}
+.frame-3 .line-12 {
+  background: #EDEDEE;
+  margin: 0 15.3px 13px 14.2px;
+  width: 246.5px;
+  height: 1px;
+}
+.frame-3 .container-1 {
+  margin-right: 16px;
+  width: 140.2px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #B6192C;
+}
+.frame-3 .container-2 {
+  margin: 3.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-3 .container-4 {
+  margin: 0 22.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 229.2px;
+  box-sizing: border-box;
+}
+.frame-3 .group-7 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0 4px 29.8px 0;
+  box-sizing: border-box;
+}
+.frame-3 .new {
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-3 .container-8 {
+  border-radius: 30px;
+  background: #FF3860;
+  position: relative;
+  margin-bottom: 158px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 17px 10px 17px 14px;
+  box-sizing: border-box;
+}
+.frame-3 .home-nng {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #707070;
+}
+.frame-3 .chi-nng {
+  margin: 0 3px 3.2px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-3 .container-3 {
+  margin: 0 27.4px 10px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #707070;
+}
+.frame-3 .line-121 {
+  background: #EDEDEE;
+  margin: 0 4.3px 13px 3.2px;
+  width: 246.5px;
+  height: 1px;
+}
+.frame-3 .container-4 {
+  margin-right: 16px;
+  width: 140.2px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #BA2739;
+}
+.frame-3 .container-5 {
+  margin: 3.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-3 .container-5 {
+  margin: 0 12.8px 0 11.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 229.9px;
+  box-sizing: border-box;
+}
+.frame-3 .ti-xung-11 {
+  background: url('../assets/images/tiXung11.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  width: 265px;
+  height: 210px;
+}
+.frame-3 .group-8 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 15px 29.8px 11px;
+  box-sizing: border-box;
+}
+.frame-3 .new-1 {
+  overflow-wrap: break-word;
+  font-family: 'Margarine';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-3 .container {
+  border-radius: 30px;
+  background: #FF3860;
+  position: relative;
+  margin-bottom: 180.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-end;
+  padding: 17px 10px 17px 14px;
+  box-sizing: border-box;
+}
+.frame-3 .mc-xo {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-3 .container-6 {
+  margin: 0 30.6px 10px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-3 .line-122 {
+  background: #EDEDEE;
+  margin: 0 4.3px 13px 0;
+  width: 246.5px;
+  height: 1px;
+}
+.frame-3 .container-7 {
+  margin-right: 16px;
+  width: 140.2px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #BA2739;
+}
+.frame-3 .container-8 {
+  margin: 3.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-3 .container-6 {
+  margin: 0 1.8px 0 8.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 240.9px;
+  box-sizing: border-box;
+}
+.frame-3 .group-9 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 15px 29.8px 14.2px;
+  box-sizing: border-box;
+}
+.frame-3 .muc-xao-tham-cap-1 {
+  background: url('../assets/images/mucXaoThamCap11.jpeg') 50% / cover no-repeat;
+  margin-bottom: 20.9px;
+  width: 280px;
+  height: 211.1px;
+}
+.frame-3 .home-pasta-pizza {
+  margin: 0 14px 3.2px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #707070;
+}
+.frame-3 .mc-xo-1 {
+  margin: 0 14.2px 5px 14.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-3 .container-9 {
+  margin: 0 31.4px 10px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-3 .line-123 {
+  background: #EDEDEE;
+  margin: 0 19.3px 13px 14.2px;
+  width: 246.5px;
+  height: 1px;
+}
+.frame-3 .container-10 {
+  margin-right: 16px;
+  width: 140.2px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #BA2739;
+}
+.frame-3 .container-11 {
+  margin: 3.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-3 .container-7 {
+  margin: 0 5.5px 0 22.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 252.2px;
+  box-sizing: border-box;
+}
+.frame-3 .group-10 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 29.8px;
+  box-sizing: border-box;
+}
+.frame-3 .home-salad {
+  position: absolute;
+  right: 505.1px;
+  bottom: 155px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #707070;
+}
+.frame-3 .container-2 {
+  position: relative;
+  margin-left: 8px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 34px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-3 .ti-xung-21 {
+  background: url('../assets/images/tiXung21.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 712px;
+  bottom: 251px;
+  width: 268px;
+  height: 215px;
+}
+.frame-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 0 48px 0;
+  width: 1890px;
+  box-sizing: border-box;
+}
