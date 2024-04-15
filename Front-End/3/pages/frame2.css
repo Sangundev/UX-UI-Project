@@ -1,0 +1,503 @@
+.frame-2 .hot-deals {
+  margin: 0 0 18px 36.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EC400A;
+}
+.frame-2 .container-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 18px;
+  color: #EC400A;
+}
+.frame-2 .days-hrs-mins-sec {
+  position: absolute;
+  right: 4.1px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-2 .group-2 {
+  position: relative;
+  margin: 0 54.4px 16px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .rectangle-15 {
+  border-radius: 10px;
+  background: #FF0000;
+  position: absolute;
+  top: 12px;
+  right: 13px;
+  width: 50px;
+  height: 50px;
+}
+.frame-2 .container-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-2 .group-37 {
+  border-radius: 10px;
+  background: url('../assets/images/mucXaoThamCap11.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 23px 15.9px 0 15.9px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-2 .product-top-xao {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-2 .mc-xo {
+  margin: 0 3.6px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-2 .container-6 {
+  margin-top: 42px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-2 .container-2 {
+  margin: 0 14px 5px 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .line-12 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-2 .container-7 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-2 .container-8 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-2 .container-7 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-2 .group-13 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 6px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-2 .rectangle-151 {
+  border-radius: 10px;
+  background: #FF0000;
+  position: absolute;
+  top: 18px;
+  right: 12px;
+  width: 50px;
+  height: 50px;
+}
+.frame-2 .container-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-2 .group-38 {
+  border-radius: 10px;
+  background: url('../assets/images/mucXaoThamCap1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 29px 14.9px 0 14.9px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-2 .product-top-xao-1 {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-2 .mc-xo-1 {
+  margin: 0 4.8px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-2 .container-9 {
+  margin-top: 42px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-2 .container {
+  margin: 0 14px 5px 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .line-121 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-2 .container-10 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-2 .container-11 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-2 .container-4 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-2 .group-14 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-2 .rectangle-152 {
+  border-radius: 10px;
+  background: #FF0000;
+  position: absolute;
+  top: 15px;
+  right: 19px;
+  width: 50px;
+  height: 50px;
+}
+.frame-2 .container-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-2 .group-39 {
+  border-radius: 10px;
+  background: url('../assets/images/mucXaoThamCap13.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 26px 21.9px 0 21.9px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-2 .product-hot-bnh-canh {
+  margin: 0 13px 5px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-2 .bnh-canh {
+  margin: 0 15px 3px 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-2 .container-12 {
+  margin: 0 21.8px 5px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-2 .line-122 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-2 .container-13 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-2 .container-14 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-2 .container-3 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-2 .group-15 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-2 .rectangle-153 {
+  border-radius: 10px;
+  background: #FF0000;
+  position: absolute;
+  top: 12px;
+  right: 9px;
+  width: 50px;
+  height: 50px;
+}
+.frame-2 .container-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #FFFFFF;
+}
+.frame-2 .group-40 {
+  border-radius: 10px;
+  background: url('../assets/images/mucXaoThamCap12.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 23px 11.9px 0 11.9px;
+  width: fit-content;
+  height: 181px;
+  box-sizing: border-box;
+}
+.frame-2 .product-top-xao-2 {
+  margin: 0 14px 10px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 14px;
+  color: #5A5757;
+}
+.frame-2 .mc-xo-2 {
+  margin: 0 10.6px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Martel Sans';
+  font-weight: 900;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87);
+}
+.frame-2 .container-15 {
+  margin-top: 42px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 19px;
+  color: #9691B6;
+}
+.frame-2 .container-6 {
+  margin: 0 14px 5px 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .line-123 {
+  background: #EDEDEE;
+  margin: 0 19px 11px 14px;
+  width: 243px;
+  height: 1px;
+}
+.frame-2 .container-16 {
+  margin-right: 16px;
+  width: 138px;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 24px;
+  color: #F2A88B;
+}
+.frame-2 .container-17 {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Marko One';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: line-through;
+  color: #707070;
+}
+.frame-2 .container-1 {
+  margin: 0 19.1px 0 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 234.9px;
+  box-sizing: border-box;
+}
+.frame-2 .group-16 {
+  border-radius: 5px;
+  border: 1px solid #F6F6F7;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 6px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  width: 276px;
+  box-sizing: border-box;
+}
+.frame-2 .container-5 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-2 .group-27 {
+  border-radius: 5px;
+  margin: 0 256px 104px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-2 .container {
+  margin-top: 543px;
+  display: inline-block;
+  overflow-wrap: break-word;
+}
+.frame-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 45.3px 40px 0;
+  width: 1874px;
+  box-sizing: border-box;
+}
